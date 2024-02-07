@@ -12,8 +12,8 @@ public class VarType2 {
                                                  long은 뒤에 L 꼭 붙여줘야 함 */
 
         // 실수
-        float  f   = 10.0f;                   // -3.4E38  ~ 3.4E38          , 7자리 정밀도                    (4byte, 2³²)
-        double d   = 10.0;                    // -1.7E308 ~ 1.7E308         , 15자리 정밀도                   (8byte, 2⁶⁴)
+        float  f   = 10.0f;                   // -3.4E38  ~ 3.4E38          , 7자리 정밀도                   (4byte, 2³²)
+        double d   = 10.0;                    // -1.7E308 ~ 1.7E308         , 15자리 정밀도                  (8byte, 2⁶⁴)
 
         // 기타
         boolean bl = true;                    //                                                            (1byte)
