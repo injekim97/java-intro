@@ -4,6 +4,10 @@ public class VarType2 {
 
     public static void main(String[] args) {
 
+        /* 해당 타입들은 실무에서 거의 사용하지 않는다.
+             - byte(파일 전송, 파일 복사 등에 주로 사용), short, float, char
+             - ▲▲▲ 메모리 용량을 약간 절약하는 것 보다 개발 속도나 효율에 초점을 맞추는 것이 더 효율적이다. ▲▲▲ */
+
         // 정수
         byte b     = 127;                     // -128                       ~ 127                           (1byte, 2⁸)
         short s    = 32767;                   // -32,768                    ~ 32,767                        (2byte, 2¹⁶)
