@@ -9,7 +9,7 @@ public class VarType2 {
              - ▲▲▲ 메모리 용량을 약간 절약하는 것 보다 개발 속도나 효율에 초점을 맞추는 것이 더 효율적이다. ▲▲▲ */
 
         /* ◆◆◆ 실무에서 자주 사용하는 타입 ◆◆◆
-             - int, long(20억 넘을 것 같을 경우 사용), double, boolean(조건문에서 자주 사용), String */
+             - int, long(20억 넘을 것 같을 경우 사용), double, boolean(조건문에서 자주 사용), String     */
 
         // 정수
         byte b     = 127;                     // -128                       ~ 127                           (1byte, 2⁸)
