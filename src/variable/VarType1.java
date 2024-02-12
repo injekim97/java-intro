@@ -36,5 +36,6 @@ public class VarType1 {
         System.out.println(c);
         System.out.println(d);
         System.out.println(e);
+
     }
 }
