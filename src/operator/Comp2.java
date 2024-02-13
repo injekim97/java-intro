@@ -13,9 +13,9 @@ public class Comp2 {
         boolean res2 = str1.equals("문자열1");          // true
         boolean res3 = str1.equals(str2);              // false
 
-        System.out.println("res1 = " + res1);
-        System.out.println("res2 = " + res2);
-        System.out.println("res3 = " + res3);
+        System.out.println(res1);
+        System.out.println(res2);
+        System.out.println(res3);
 
     }
 }
