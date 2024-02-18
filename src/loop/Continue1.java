@@ -4,7 +4,7 @@ public class Continue1 {
 
     public static void main(String[] args) {
 
-        int i   = 1;
+        int i = 1;
 
         /* break, continue : 반복문에서 사용할 수 있는 키워드 */
         while(i <= 5) {
