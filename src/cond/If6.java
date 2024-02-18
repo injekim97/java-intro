@@ -4,7 +4,7 @@ public class If6 {
 
     public static void main(String[] args) {
         
-        /* 해당 코드는 해당하는 조건들에 대해 모든 할인 적용 불가(여러조건 중 하나의 조건이 True일 경우 한번만 할인 가능)
+        /* 해당 코드는 해당하는 조건들에 대해 모든 할인 적용 불가(여러조건 중 하나의 조건이 true일 경우 한번만 할인 가능)
            즉, if문을 각각 사용할지 if-else if를 함께 묶어서 사용할지는 요구사항에 따라 달라진다 */
 
         int discount = 0;
