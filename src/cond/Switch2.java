@@ -6,8 +6,8 @@ public class Switch2 {
 
         // 1: 1000, 2: 2000, 3: 3000, -: 500
         int grade  = 2;
+        int coupon = 0;
 
-        int coupon;
         switch (grade) {
 
             case 1:

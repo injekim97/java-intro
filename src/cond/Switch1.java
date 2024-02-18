@@ -22,8 +22,8 @@ public class Switch1 {
 
         // 1: 1000, 2: 2000, 3: 3000, -: 500
         int grade  = 1;
+        int coupon = 0;
 
-        int coupon;
         if (grade == 1) {
             coupon = 1000;
         } else if (grade == 2) {

@@ -8,8 +8,8 @@ public class Switch3 {
 
         // 1: 1000, 2: 3000(변경), 3: 3000, -: 500
         int grade  = 2;
+        int coupon = 0;
 
-        int coupon;
         switch (grade) {
 
             case 1:

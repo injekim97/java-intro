@@ -5,8 +5,8 @@ public class ScoreEx {
     public static void main(String[] args) {
 
         String grade;
-
         int score = 95;
+
         if (score >= 90) {
             grade = "A";
         } else if (score >= 80) {

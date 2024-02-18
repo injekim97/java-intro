@@ -5,8 +5,8 @@ public class DistanceEx {
     public static void main(String[] args) {
 
         String transport;
-
         int distance = 50;
+
         if (distance <= 1) {
             transport = "도보";
         } else if (distance <= 10) {

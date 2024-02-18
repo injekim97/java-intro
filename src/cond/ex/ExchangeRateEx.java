@@ -5,9 +5,9 @@ public class ExchangeRateEx {
     public static void main(String[] args) {
 
         String message;
-
         int won    = 0;
         int dollor = 10;
+
         if (dollor < 1) {
             message = "잘못된 금액입니다.";
         } else if (dollor == 0) {
