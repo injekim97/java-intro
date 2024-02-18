@@ -4,8 +4,8 @@ public class If3 {
 
     public static void main(String[] args) {
 
-        /* 불필요한 조건 검사(중복 체크) */
-        
+        /* 불필요한 조건 검사(중복 체크), 코드 효율성 안좋음 */
+
         int age = 14;
 
         if(age <= 7) {

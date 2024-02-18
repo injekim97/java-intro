@@ -4,6 +4,8 @@ public class If4 {
 
     public static void main(String[] args) {
 
+        /* else if를 사용함으로써 불필요한 조건 검사(중복 체크)를 하지 않고 코드의 효율성을 향상 */
+
         int age = 28;
 
         if(age <= 7) {
