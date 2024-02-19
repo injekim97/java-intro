@@ -8,7 +8,7 @@ public class DoWhile1 {
 
         while (i < 3) {
 
-            System.out.println("현재 숫자는: " + i);          // 조건이 false이므로 출력되지 않음
+            System.out.println("현재 숫자는: " + i);    // 조건이 false이므로 출력되지 않음
             i++;
 
         }
