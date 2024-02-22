@@ -18,7 +18,7 @@ public class VarType1 {
                            USER_LIMIT                                                        */
 
         /* 패키지        : 모두 소문자를 사용
-                          org.spring.boot                                                    */
+                           org.spring.boot                                                   */
 
         /* 변수 이름     : 의미있고 그 용도를 명확하게 설명해야 함
                           studentCount, maxScore, userAccount, orderCount                    */
