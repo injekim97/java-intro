@@ -15,7 +15,7 @@ public class VarType1 {
                            Person, OrderDetail                                               */
 
         /* 상수          : 모두 대문자를 사용하고 언더바로 구분
-                          USER_LIMIT                                                         */
+                           USER_LIMIT                                                        */
 
         /* 패키지        : 모두 소문자를 사용
                           org.spring.boot                                                    */
