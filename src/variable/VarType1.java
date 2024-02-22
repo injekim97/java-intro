@@ -6,19 +6,19 @@ public class VarType1 {
     public static void main(String[] args) {
 
         /* 낙타표기법     : 여러 단어로 이루어진 ◆변수◆ 일 경우
-                          첫 번째 단어는 ◆소문자◆로 시작, 그 이후의 각 단어는 대문자로 시작
-                          해당 표기법을 사용하면 이름에 공백을 넣지 않고도 여러 단어를 쉽게 구분 가능
-                          orderDetail, myAccount                                            */
+                           첫 번째 단어는 ◆소문자◆로 시작, 그 이후의 각 단어는 대문자로 시작
+                           해당 표기법을 사용하면 이름에 공백을 넣지 않고도 여러 단어를 쉽게 구분 가능
+                           orderDetail, myAccount                                            */
 
         /* 클래스(class) : 첫 번째 단어는 ◆대문자◆로 시작, 나머지 모두 첫글자는 소문자로 시작
-                          즉 첫 번째 단어 대문자 + 나머지 소문자(추후에 단어가 와도 형식 같음)
-                          Person, OrderDetail                                               */
+                           즉 첫 번째 단어 대문자 + 나머지 소문자(추후에 단어가 와도 형식 같음)
+                           Person, OrderDetail                                               */
 
         /* 상수          : 모두 대문자를 사용하고 언더바로 구분
                            USER_LIMIT                                                       */
 
         /* 패키지        : 모두 소문자를 사용
-                          org.spring.boot                                                  */
+                           org.spring.boot                                                  */
 
         /* 변수 이름     : 의미있고 그 용도를 명확하게 설명해야 함
                           studentCount, maxScore, userAccount, orderCount                  */
