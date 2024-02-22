@@ -1,6 +1,6 @@
-package cesting;
+package casting;
 
-public class Cesting1 {
+public class Casting1 {
 
     public static void main(String[] args) {
 
