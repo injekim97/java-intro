@@ -14,11 +14,11 @@ public class Scanner1 {
 
         System.out.print("정수를 입력하세요: ");
         int intValue = scanner.nextInt();
-        System.out.println("입력한 정수 : " + intValue);         // 입력을 int 타입으로 가져온다.
+        System.out.println("입력한 정수 : " + intValue);        // 입력을 int 타입으로 가져온다.
 
         System.out.print("실수를 입력하세요: ");
         double doubleValue = scanner.nextDouble();
-        System.out.println("입력한 실수 : " + doubleValue);      // 입력을 double 타입으로 가져온다.
+        System.out.println("입력한 실수 : " + doubleValue);     // 입력을 double 타입으로 가져온다.
 
     }
 }
