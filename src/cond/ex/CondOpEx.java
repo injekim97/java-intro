@@ -9,5 +9,6 @@ public class CondOpEx {
 
         int max_num = (a > b) ? a : b;
         System.out.println("더 큰 숫자는 " + max_num + "입니다.") ;
+
     }
 }
