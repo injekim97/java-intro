@@ -10,7 +10,7 @@ public class Comp2 {
         String str2  = "문자열2";
 
         boolean res1 = "hello".equals("hello");        // true
-        boolean res2 = str1.equals("문자열1");         // true
+        boolean res2 = str1.equals("문자열1");          // true
         boolean res3 = str1.equals(str2);              // false
 
         System.out.println(res1);
