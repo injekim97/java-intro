@@ -9,9 +9,7 @@ public class Nested1 {
             System.out.println("외부 for loop 시작 i:" + i);
 
             for (int j = 0; j < 3; j++) {
-
                 System.out.println("-> 내부 for loop " + i + "-" + j);
-
             }
 
             System.out.println("외부 for loop 종료 i:" + i);
@@ -20,4 +18,5 @@ public class Nested1 {
         }
 
     }
+
 }
