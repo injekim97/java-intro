@@ -10,8 +10,10 @@ public class Scope3_2 {
         int m = 10;                                    // m 생존시작
 
         if (m > 0) {
+
             int temp = m * 2;                          /* temp를 if 코드 블록 안에 선언함으로써 효율적인 메모리 사용 및 코드 복잡성 감소(군더더기 없는 단순한 코드가 됨) */
             System.out.println("temp = " + temp);
+
         }
 
         System.out.println("m = " + m);
